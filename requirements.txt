@@ -1,0 +1,5 @@
+pydantic
+langgraph
+langchain
+langchain_community
+langchain[openai]
